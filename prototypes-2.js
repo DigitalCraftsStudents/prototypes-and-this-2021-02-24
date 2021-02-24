@@ -51,7 +51,7 @@ milla.meow(); // "Hi my name is milla"
 console.log(`Milla's name is ${milla.name}`);
 
 // Explicitly not using the `new` keyword!!!!
-const chrisaquino = Cat('chris'); // `this` is the "global" obj in node
-console.log(chrisaquino);
-chrisaquino.meow();
-console.log(`ChrisAquino's name is ${chrisaquino.name}`);
+// const chrisaquino = Cat('chris'); // `this` is the "global" obj in node
+// console.log(chrisaquino);
+// chrisaquino.meow();
+// console.log(`ChrisAquino's name is ${chrisaquino.name}`);
